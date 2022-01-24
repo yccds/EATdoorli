@@ -342,9 +342,9 @@ function shareText(score) {
     }
     SubmitResults();
     if (score <= 49) return 'cc露出了不屑的眼神';
-    if (score <= 99) return '"多用点力啊",CC如此说道';
-    if (score <= 149) return '稍微有点，受不了了，CC面色潮红';
-    if (score <= 199) return 'CC两眼爱心的叫你主人';
+    if (score <= 74) return '"多用点力啊",CC如此说道';
+    if (score <= 109) return '稍微有点，受不了了，CC面色潮红';
+    if (score <= 134) return 'CC两眼爱心的叫你主人';
     return 'CC被你玩坏了';
 }
 
