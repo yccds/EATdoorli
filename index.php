@@ -3,7 +3,7 @@
 
 <head>
     <title>吃掉小鹿乃</title>
-    <meta itemprop="name" content="吃掉小鹿乃" />
+    <meta itemprop="name" content="吃掉小cc" />
     <meta itemprop="description" content="新概念音游" />
     <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
     <meta charset="utf-8" />
@@ -40,7 +40,7 @@
             <div style="margin:0 8% 0 9%;">
                 <div style="font-size:2.6em; color:#FEF002;">新概念音游</div><br />
                 <div style="font-size:2.2em; color:#fff; line-height:1.5em;">
-                    从最底下小鹿乃开始<br />
+                    从最底下小cc开始<br />
                     看看你20秒能多少分<br />
                 </div>
                 <br />
