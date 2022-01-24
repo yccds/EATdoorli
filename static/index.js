@@ -341,11 +341,11 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return '试着好好练一下？';
-    if (score <= 99) return 'TCL';
-    if (score <= 149) return 'TQL';
-    if (score <= 199) return '您';
-    return '人？';
+    if (score <= 49) return 'cc露出了不屑的眼神';
+    if (score <= 99) return '"多用点力啊",CC如此说道';
+    if (score <= 149) return '稍微有点，受不了了，CC面色潮红';
+    if (score <= 199) return 'CC两眼爱心的叫你主人';
+    return 'CC被你玩坏了';
 }
 
 function toStr(obj) {
