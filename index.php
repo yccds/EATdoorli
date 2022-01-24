@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>吃掉小鹿乃</title>
+    <title>吃掉小cc</title>
     <meta itemprop="name" content="吃掉小cc" />
     <meta itemprop="description" content="新概念音游" />
     <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
