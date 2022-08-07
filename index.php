@@ -2,9 +2,9 @@
 <html>
 
 <head>
-    <title>踩扁说的道理</title>
+    <title>b站关注胡摇橙树Yaocc</title>
     <meta itemprop="name" content="踩扁说的道理" />
-    <meta itemprop="description" content="新概念音游" />
+    <meta itemprop="description" content="b站关注胡摇橙树Yaocc" />
     <meta itemprop="image" content="https://www.thac.cc/kano/res/logo.jpg" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
