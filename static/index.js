@@ -341,11 +341,11 @@ function shareText(score) {
         return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
     }
     SubmitResults();
-    if (score <= 49) return 'cc露出了不屑的眼神';
-    if (score <= 74) return '"多用点力啊",CC如此说道';
-    if (score <= 109) return '稍微有点，受不了了，CC面色潮红';
-    if (score <= 134) return 'CC两眼爱心的叫你主人';
-    return 'CC被你玩坏了';
+    if (score <= 49) return '你到底会不会说道理';
+    if (score <= 74) return ' 买点韭菜盒子给你补补？';
+    if (score <= 109) return '啊米浴说的道理';
+    if (score <= 134) return '一坨史你这个手速';
+    return '说的道理升天了';
 }
 
 function toStr(obj) {
